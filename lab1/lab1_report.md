@@ -34,3 +34,10 @@ Date of finished: 02.12.2022
 
 ![image](https://user-images.githubusercontent.com/44921066/205354074-825e855e-7346-42ac-9b37-a9344b9e4f3e.png)
 Проверка работоспособности
+
+![image](https://user-images.githubusercontent.com/44921066/205357403-1c4acb51-7686-4e28-98ff-893357d92336.png)
+Находим токен в логах пода командой kubectl logs vault-pod
+
+![image](https://user-images.githubusercontent.com/44921066/205357512-8f5dc958-6fac-4098-8ed9-9749fbcb4c4a.png)
+Логинимся
+
