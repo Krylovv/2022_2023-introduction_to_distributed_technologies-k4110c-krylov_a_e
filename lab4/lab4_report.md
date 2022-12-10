@@ -45,3 +45,6 @@ Date of finished: 10.12.2022
 ![image](https://user-images.githubusercontent.com/44921066/206855169-1152b856-0146-4249-9863-370d79925488.png)
 ![image](https://user-images.githubusercontent.com/44921066/206855176-96245e42-1e3d-4304-adb6-d5f76456634d.png)
 Пинги подов изнутри контейнеров
+
+![image](https://user-images.githubusercontent.com/44921066/206857687-57f9fb27-791d-42dc-b46a-b1d5f2b2d01a.png)
+
