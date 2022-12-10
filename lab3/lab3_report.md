@@ -44,4 +44,5 @@ Date of finished: 09.12.2022
 ![image](https://user-images.githubusercontent.com/44921066/206852033-aaf0d413-e883-4bad-a3a6-850a26c1122d.png)
 Информация о сертификате
 
+![image](https://user-images.githubusercontent.com/44921066/206856637-5857c8b2-2536-4843-a4be-51775c099f01.png)
 
